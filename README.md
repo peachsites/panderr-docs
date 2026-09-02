@@ -68,6 +68,8 @@ Panderr is under active development. Features, integrations, and workflows docum
 
 ## Company
 
+Panderr was created by **Randa Vandenack Schilling**, founder of **PeachSites**, to make website migration and redesign more portable, structured, and accessible.
+
 Panderr is a product of **PeachSites, LLC**.
 
 - Product: [panderr.com](https://panderr.com)
