@@ -52,7 +52,7 @@ The goal is to make publishing feel like the natural final step of website migra
 
 Cloudflare infrastructure also aligns with Panderr's longer-term support for businesses, web professionals, and agencies managing multiple website projects.
 
-Potential platform capabilities include centralized deployment workflows, custom-domain publishing, project isolation, performance services, and security features supplied by Cloudflare.
+Publishing to Panderr-managed Cloudflare Pages addresses is available today. Customers can also download their website files and host them with any provider, and can connect their own domain using nameserver and DNS setup information we provide by request; automated custom-domain connection inside Panderr is a planned capability.
 
 ## Security and implementation details
 
