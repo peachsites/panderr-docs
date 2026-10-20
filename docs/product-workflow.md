@@ -46,10 +46,18 @@ Changes are stored as part of the website project so users can move between page
 
 ## 6. Publish
 
-The finished website can be prepared for deployment and publishing through Panderr's Cloudflare-backed workflow.
+The finished website can be published to a Panderr-managed Cloudflare Pages address through Panderr's Cloudflare-backed workflow, or downloaded as website files the customer can upload to any hosting provider. Customers can use their own domain with Panderr Cloud by requesting nameserver and DNS setup information from Panderr and updating their settings with their domain provider; setup is manual, and automated self-service domain connection is not yet implemented.
 
 ```text
 Import → Understand → Transform → Edit → Preview → Publish
 ```
+
+## Availability and pricing (public summary)
+
+- **Preview:** Panderr generates a free preview of an existing website's design and content — a generated recreation that shows what Panderr can recreate. No account is needed to view a preview; a free account is required to keep or edit a project. The preview does not verify SEO preservation, redirects, or complete functionality.
+- **Website purchase:** $99 one-time for one website project, including 30 days of Studio editing access and website export.
+- **Studio (ongoing editing):** $99/year. **Panderr Cloud Hosting:** $29/month or $290/year. Studio and hosting are independent; neither is required to keep a purchased website. New Studio and hosting subscriptions are temporarily unavailable.
+- **Publishing:** publish to a Panderr-managed Cloudflare Pages address, or download the website files and host anywhere. Own-domain connection with Panderr Cloud is a manual, guided process (nameserver/DNS information provided on request); automated connection inside Panderr is not yet implemented.
+- **Starting points:** migrations can begin at panderr.com, from the WordPress plugin, in ChatGPT, or in Claude (see Integrations & Partnerships). Connectors return a link that starts the process; previewing, editing, purchasing, and publishing happen in Panderr.
 
 The specific implementation behind each stage is proprietary and is not included in this public documentation repository.

@@ -10,6 +10,14 @@ Panderr's integration strategy is based on three ideas:
 2. **Preserve user choice.** Customers should be able to move between tools and providers without automatically losing the website they already invested in.
 3. **Connect design to deployment.** Integrations should help move work from source material or design systems into an editable, publishable website workflow.
 
+## Current integrations
+
+Panderr's integrations make its website migration capabilities available within the tools people already use. Each integration starts a migration and hands off to Panderr, where the preview, editing, purchase, and publishing happen.
+
+- **Panderr – Website Migration (WordPress plugin):** starts a migration from inside a WordPress dashboard, sending the site's public address and name to Panderr. Preserve, Improve, or Redesign is chosen in Panderr.
+- **Panderr for ChatGPT (plugin):** begin a website migration inside ChatGPT, then continue in Panderr to preview, edit, and manage the site.
+- **Panderr for Claude (connector):** published in [Anthropic's Claude Connector Directory](https://claude.ai/directory/panderr) (a community connector by PeachSites, LLC). It connects to Panderr's MCP server (https://panderr.com/mcp?partner=claude) and returns a link that starts a migration preview. No sign-in is required.
+
 ## Current partnership areas
 
 Panderr is exploring and developing relationships across several categories:
